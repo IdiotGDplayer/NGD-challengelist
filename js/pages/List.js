@@ -98,7 +98,7 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Welcome to the NeoGMD Demonlist!</h3>
+                    <h3>Welcome to the NeoGMD Challenge list!</h3>
                     <p>
                         1. Minimum length is 35 seconds
                     </p>
