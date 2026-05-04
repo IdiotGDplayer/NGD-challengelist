@@ -1,0 +1,48 @@
+{
+    "id": 105779595,
+    "name": "Toxic Waste",
+    "author": "ARFT",
+    "creators": [],
+    "verifier": "ARFT",
+    "verification": "https://www.youtube.com/watch?v=RN0Aim8CUvo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "NotNeoGD",
+            "link": "https://youtu.be/EIIw83om8jg",
+            "percent": 100,
+            "hz": 500
+        },
+        {
+            "user": "VRAPUR",
+            "link": "https://youtu.be/QYDojYnmBbs",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Infernux",
+            "link": "https://www.youtube.com/watch?v=0Ykk8h77mN8&pp=0gcJCcMJAYcqIYzv",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Neptune",
+            "link": "https://youtu.be/zMPy-3xIA9M",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "WeoTeo",
+            "link": "https://youtu.be/ha4CbZTazXI",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Fivro",
+            "link": "https://www.youtube.com/watch?v=98kE4qxDBHc",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 122044186,
+    "name": "NoGoodbyes",
+    "author": "VRAPUR",
+    "creators": [],
+    "verifier": "VRAPUR",
+    "verification": "https://www.youtube.com/watch?v=NBMq0RJEWvc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Infernux",
+            "link": "https://www.youtube.com/watch?v=X2O45jdcuBU&ab_channel=Infernux",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

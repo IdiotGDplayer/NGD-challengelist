@@ -1,0 +1,36 @@
+{
+    "id": 121992022,
+    "name": "Obake",
+    "author": "Terra",
+    "creators": [],
+    "verifier": "Terra",
+    "verification": "https://youtu.be/EcbuePwZybc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "VRAPUR",
+            "link": "https://youtu.be/yoCAw8Ts2Xg",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Infernux",
+            "link": "https://www.youtube.com/watch?v=ZleL_HTU-Pw",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "BobbyPow",
+            "link": "https://www.youtube.com/watch?v=LrVrbEJf1vE",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Neptune",
+            "link": "https://youtu.be/0zFRIzoP73E",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

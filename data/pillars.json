@@ -1,0 +1,42 @@
+{
+    "id": 121980529,
+    "name": "PILLARS",
+    "author": "NotNeoGD",
+    "creators": [],
+    "verifier": "NotNeoGD",
+    "verification": "https://youtu.be/ytGuXqBqsvg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+            {
+            "user": "BobbyPow",
+            "link": "https://www.youtube.com/watch?v=CstUcETJ5FU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Infernux",
+            "link": "https://www.youtube.com/watch?v=tgzBk5JqKRc",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "VRAPUR",
+            "link": "https://www.youtube.com/watch?v=_LZ4TV3vTko",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Neptune",
+            "link": "https://www.youtube.com/watch?v=VukXnSsK9TA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Fivro",
+            "link": "https://youtu.be/nhA2NftP8E8",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

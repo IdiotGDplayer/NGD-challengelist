@@ -1,0 +1,18 @@
+{
+    "id": 121822747,
+    "name": "Reviewz",
+    "author": "WeoTeo",
+    "creators": [],
+    "verifier": "WeoTeo",
+    "verification": "https://youtu.be/yTVuKVZLSfM?si=TRWWok_3yI-vgrLJ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "Infernux",
+            "link": "https://www.youtube.com/watch?v=I8fgCGZilhM",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

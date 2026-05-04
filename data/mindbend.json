@@ -1,0 +1,18 @@
+{
+    "id": 105926683,
+    "name": "Mindbend",
+    "author": "TheCatAstronaut",
+    "creators": [],
+    "verifier": "TheCatAstronaut",
+    "verification": "https://youtu.be/o55LH1NvjmQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Infernux",
+            "link": "https://youtu.be/ErT4zK5YZK4",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

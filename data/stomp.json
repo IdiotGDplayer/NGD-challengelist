@@ -1,0 +1,18 @@
+{
+    "id": 122981980,
+    "name": "STOMP",
+    "author": "Fivro",
+    "creators": [],
+    "verifier": "Fivro",
+    "verification": "https://youtu.be/dCjeY39ZfB8",
+    "percentToQualify": "100",
+    "password": "FTC, GDPS ID: 103",
+    "records": [
+        {
+            "user": "Infernux",
+            "link": "https://youtu.be/HhV9aDtc8jY",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}

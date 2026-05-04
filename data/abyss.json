@@ -1,0 +1,56 @@
+{
+    "id": 121836168,
+    "name": "ABYSS",
+    "author": "NotNeoGD",
+    "creators": [],
+    "verifier": "NotNeoGD",
+    "verification": "https://youtu.be/szNY9qxpXDE?si=Po90h4hAXTsyh2N0",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "ARFT",
+            "link": "https://youtu.be/gnNzgVAl0_c",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "BobbyPow",
+            "link": "https://www.youtube.com/watch?v=hpcoI2DyNP8",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "VRAPUR",
+            "link": "https://youtu.be/NTHE3zhpRQY",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Infernux",
+            "link": "https://www.youtube.com/watch?v=LrTDj8rHTL0",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Neptune",
+            "link": "https://youtu.be/TqIK7x811VM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "WeoTeo",
+            "link": "https://youtu.be/ha4CbZTazXI",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Fivro",
+            "link": "https://youtu.be/eSbImiWODRk",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
+
+
